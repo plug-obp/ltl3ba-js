@@ -1,5 +1,11 @@
 # LTL3BA-js
 
+A simple express server that runs ltl3ba to convert LTL formulas to Büchi automata.
+
+## Usage
+
+Usage: node server.js --host=localhost --port=3000
+
 ## Licensing
 
 This project is made up of two main components:
