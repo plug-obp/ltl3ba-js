@@ -4,7 +4,7 @@ A simple express server that runs ltl3ba to convert LTL formulas to Büchi autom
 
 ## Usage
 
-Usage: node server.js --host=localhost --port=3000
+Usage: ```node server.js --host=localhost --port=3000```
 
 ## Licensing
 
